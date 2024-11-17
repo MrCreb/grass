@@ -24,8 +24,7 @@ cd grass
 ```
 nano local_proxies.txt
 ```
-- 
-Paste your proxy
+- Paste your proxy
 ```
 python3 -m venv grass
 ```
