@@ -2,7 +2,7 @@
 - telegram @Mrcreb2
 - Register proxi
 https://dashboard.proxyscrape.com/login?url=https%3A%2F%2Fdashboard.proxyscrape.com%2F
--Buy proxi
+- Buy proxi
 https://proxyscrape.com/purchase?type=new_residential&bandwidth=1&price_version=p1
 # Update Grass Python
 # Register
