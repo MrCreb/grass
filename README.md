@@ -1,5 +1,5 @@
 # BOT GRASS AUTO FARMING
-- telegram @Mrcreb2
+- telegram t.me/Mrcreb2
 - Register proxi
 https://dashboard.proxyscrape.com/login?url=https%3A%2F%2Fdashboard.proxyscrape.com%2F
 - Buy proxi
