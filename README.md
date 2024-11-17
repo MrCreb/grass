@@ -37,7 +37,7 @@ pip install -r requirements.txt
 ```
 python localgrassnode.py
 ```
-- Paste your usid grass
+- Paste your userId grass
 ```
 python localgrasslite.py
 ```
