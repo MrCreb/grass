@@ -18,6 +18,15 @@ git clone https://github.com/AirdropFamilyIDN-V2-0/grass.git
 cd grass
 ```
 ```
+nano local_proxies.txt
+```
+```
+python3 -m venv grass
+```
+```
+source grass/bin/activate
+```
+```
 pip install -r requirements.txt
 ```
 ```
