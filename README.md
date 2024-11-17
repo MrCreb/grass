@@ -2,7 +2,7 @@
 - https://t.me/AirdropFamilyIDN
 # Update Grass Python
 # Register
-- https://app.getgrass.io/register/?referralCode=AYtNN0N1D0pzSCc
+- https://app.getgrass.io/register/?referralCode=6NLEQg36KzKvjnh
 - Lite Version
 - Node Version
 - Format Proxy Dah Ane Kasih Contoh Di ```localproxies.txt```
