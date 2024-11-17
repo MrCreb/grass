@@ -26,6 +26,9 @@ nano local_proxies.txt
 ```
 - Paste your proxy
 ```
+apt install python3.12-venv
+```
+```
 python3 -m venv grass
 ```
 ```
