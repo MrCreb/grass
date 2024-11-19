@@ -16,7 +16,7 @@ https://proxyscrape.com/purchase?type=new_residential&bandwidth=1&price_version=
 # Requirements
 
 ```
-git clone https://github.com/AirdropFamilyIDN-V2-0/grass.git
+https://github.com/MrCreb/grass.git
 ```
 ```
 cd grass
