@@ -16,7 +16,7 @@ https://proxyscrape.com/purchase?type=new_residential&bandwidth=1&price_version=
 # Requirements
 
 ```
-https://github.com/MrCreb/grass.git
+git clone https://github.com/MrCreb/grass.git
 ```
 ```
 cd grass
